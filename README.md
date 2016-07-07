@@ -11,10 +11,11 @@ The purpose of this web-app is to allow communities in crisis to help identify p
   5. When someone sees them, they enter the time they saw them and if they are safe.
 
 ## TODO:
-  [] simple contribution/workflow 
-  [] simple wireframe
-  [] simple spec
-  [] simple test
-  [] simple front end prototype
-  [] simple backend
-  
+
+  - [ ] simple contribution/workflow
+  - [ ] some basit todo and feature issues
+  - [ ] simple wireframe
+  - [ ] simple spec
+  - [ ] simple test
+  - [ ] simple front end prototype
+  - [ ] simple backend
